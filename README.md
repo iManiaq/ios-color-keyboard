@@ -9,7 +9,7 @@ Written both in swift and objective C
 
 
 
-![Alt text](http://i.imgur.com/EUG6hr1.gifv)
+![Alt text](http://i.imgur.com/tDEL82C.png)
 ![Alt text](http://i.imgur.com/1okdgAp.png)
 ![Alt text](http://i.imgur.com/LKQaw0U.png)
 
